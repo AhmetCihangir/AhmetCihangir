@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmetCihangir
 - 👀 I’m interested in Coding and Korean
-- 🌱 I’m currently learning Flask and Vue.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me instagram:@ahmet_cihangir_lmc
 
 <!---
